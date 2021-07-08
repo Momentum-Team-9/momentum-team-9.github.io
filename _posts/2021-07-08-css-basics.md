@@ -13,8 +13,7 @@ tags: phase-1 css
 - Units of measurement
 
 ## ✅ TODO today
-1. Fill out this [quick self-eval](https://docs.google.com/forms/d/13HAQ_6sarKQ9DqH2PUzPL_rillBNO8_1FtLDdeEbYCg/edit).
-2. Begin working on your dog adoption website. 🐕
+- Begin working on your dog adoption website. 🐕
 
 ## 🎯 Weekend Project: Build a Dog Adoption website
 
