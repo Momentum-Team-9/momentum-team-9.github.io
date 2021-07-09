@@ -47,8 +47,8 @@ This assignment is due on **Monday, July 12**, at 9:00 am.
 - [58 bytes of css to look great nearly everywhere](https://jrl.ninja/etc/1/)
 - [Coolors Color Palette Generator](https://coolors.co/)
 
-## 🦉 Code, Notes, & Videos from class
+## 🦉 Code & Notes
 
-- [CSS Basics notes](https://github.com/Momentum-Team-9/notes/blob/main/css-layout.md)
+- [CSS Basics notes](https://github.com/Momentum-Team-9/notes/blob/main/css-basics.md)
 - [Garden Store site with css example](https://github.com/Momentum-Team-9/examples/tree/main/garden-store-css)
 
