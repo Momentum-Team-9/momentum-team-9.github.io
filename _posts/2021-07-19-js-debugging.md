@@ -38,6 +38,4 @@ There's an awesome article about _stacks_, which we encounter in a _stack trace_
 ### Code, slides, and video from class
 
 - [notes on debugging in JS](https://github.com/momentum-team-9/notes/js-debugging.md)
-- [Morning Video](https://us02web.zoom.us/rec/share/_EvphwR_7NOcO1AVndsZfBETpOoRE6WNKTPQCst-exPw7Km4KmxOO6qq9aOWP9q6.IYJzzDxLa0xhrvT8)
-
-Access Passcode: +1f.rgzg
+- [parking validation example](https://github.com/Momentum-Team-9/examples/tree/main/js-parking-validation)
