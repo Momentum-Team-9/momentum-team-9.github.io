@@ -30,3 +30,4 @@ tags: phase-1 javascript js objects
 
 - [notes on js objects](https://github.com/Momentum-Team-9/notes/blob/main/js-objects.md)
 - [Example Sailor Scout Directory ](https://github.com/Momentum-Team-9/examples/tree/main)
+- [Repl.it from class: Find By City examples](https://replit.com/@amy_nc/FindByCity-Example#index.js)
