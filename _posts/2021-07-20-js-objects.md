@@ -28,4 +28,5 @@ tags: phase-1 javascript js objects
 
 ## 🦉 Code, Notes & Videos
 
-- [notes on js objects](https://github.com/momentum-team-9/notes/js-objects.md)
+- [notes on js objects](https://github.com/Momentum-Team-9/notes/blob/main/js-objects.md)
+- [Example Sailor Scout Directory ](https://github.com/Momentum-Team-9/examples/tree/main)
