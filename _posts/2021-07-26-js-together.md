@@ -14,7 +14,7 @@ Find your team assignment and the link to your team's repo below.
 
 ### Team Pikachu
 
-![Pikachu](assets/img/25Pikachu.png 'source: pokemon.fandom.com')
+![Pikachu](assets/img/025Pikachu.png 'source: pokemon.fandom.com')
 
 👉🏾 [All Team Pikachu clone this repo](https://github.com/Momentum-Team-9/js-team-pikachu)
 
