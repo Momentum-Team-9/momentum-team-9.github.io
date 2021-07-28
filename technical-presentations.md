@@ -4,13 +4,13 @@ permalink: /presentations/
 layout: default
 ---
 
-# Team Eight Technical Presentations
+# Team Nine Technical Presentations
 
-- Phase 1: _Friday, June 4, 2021_ 2:00 pm
+- Phase 1: _Thursday, July 29, 2021_ 2:00 pm
 
 Each student will give a short technical talk about a project that they worked on during the previous weeks of the phase.
 
-The talk should be 5 minutes long. You'll be speaking to fellow students and instructors. You do not need slides or a script. Just be yourself and tell us about the code you wrote.
+The talk should be 4-5 minutes long. You'll be speaking to fellow students and instructors. You do not need slides or a script. Just be yourself and tell us about the code you wrote.
 
 The goals of this presentation are:
 
