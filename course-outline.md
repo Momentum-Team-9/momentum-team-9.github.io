@@ -1,12 +1,11 @@
 ---
-title: Phase 1 Syllabus
+title: Course Outline
 permalink: /course-outline/
 layout: default
 ---
 
-# Course Outline
 
-For the entire 16 weeks, we are in session each day between 9:30 am - 5:30 pm, with a 1-hour break expected for lunch. You are expected to be online and available during these hours.
+For the entire 16 weeks, we are in session each day between 9:30 am - 5:30 pm, with a 1-hour break expected for lunch. You are expected to be online and available during these hours. If you need to step away for an appointment or because you're sick, please let Dawn and your instructors know.
 
 ## Class & Assignments
 
@@ -16,11 +15,11 @@ Class during Phases 1-2 meets twice a day Monday-Thursday, from 9:30 am to 11:30
 
 Lab time continues after class from 3:30 pm to 5:30 pm Monday-Thursday and 9:30 am - 5:30 pm on Friday. Friday afternoons are reserved as optional class meeting time, if indicated by your instructor.
 
-Fridays also often include mandatory group meetings for the Campus Huddle/Speaker Series and Career Services Modules. You will receive calendar invitations for these meetings, which are usually scheduled in the 9:30-11:30 am range.
+Fridays also often include mandatory group meetings for the Campus Huddle/Speaker Series and Career Services Modules. You will receive calendar invitations for these meetings, which are usually scheduled in the 9:30 am -12:00 pm range.
 
 ### Daily Assignments
 
-Monday-Wednesday, you'll be given an assignment that you'll work on during lab time that day. Although our structured day officially ends at 5:30 pm, you will likely find that you need more time that evening to complete the assignment.
+Monday through Wednesday, you'll be given an assignment that you'll work on during lab time that day. Although our structured day officially ends at 5:30 pm, you will likely find that you need more time that evening to complete the assignment.
 
 Daily assignments are due before the start of class the following morning. Homework submission is through GitHub.
 
@@ -77,6 +76,10 @@ In this phase, you have a choice to learn more in-depth front-end or back-end to
 
 You'll be asked to do more independent work alongside regular classroom meetings with your instructor as you learn to build more complex projects.
 
+The schedule varies and will be announced when the Phase begins. Core hours of 9:30-5:30 still apply.
+
 ### Phase 4: Agile Development
 
 Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To graduate, you will present your project to members of the local tech community.
+
+The schedule varies and will be announced when the Phase begins. Core hours of 9:30-5:30 still apply.
