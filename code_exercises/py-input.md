@@ -13,7 +13,7 @@ You should be able to run your program by typing `python gross_pay.py` at your c
 
 Write a program that will ask the user for a number of hours worked and a hourly rate. Calculate the gross pay based off those numbers. Then show the user the total.
 
-```py
+```
 Enter hours worked: 20
 Enter hourly rate: 18.50
 Total: $370.0
@@ -23,7 +23,7 @@ Total: $370.0
 
 Add to the calculation time-and-a-half for hours worked over 40.
 
-```py
+```
 Enter hours worked: 55
 Enter hourly rate: 20
 Total: $1250

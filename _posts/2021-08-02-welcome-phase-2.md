@@ -74,6 +74,7 @@ For each exercise, follow the instructions on Exercism to upload your solution. 
 - [Official Python docs](https://docs.python.org/3/)
 - [The Python Standard Library](https://docs.python.org/3/library/index.html)
 - [Python's Built-in Functions](https://docs.python.org/3/library/functions.html#built-in-functions)
+- [Effective Python Testing with Pytest](https://realpython.com/pytest-python-testing/) -> You can skim the first part of this if you want more information about the testing framework that Exercism uses for their Python exercises.
 
 ### 📓 Jupyter Notebooks
 
