@@ -9,6 +9,8 @@ layout: default
 
 Write a simple number guessing game. Your game should import [the `random` module](https://docs.python.org/3/library/random.html#module-random) to generate a random integer between 1 and 20. When the program runs, it should prompt the user for a guess and then tell them if their guess was too high, too low, or correct.
 
+_Hint_: There is an example of how to accept user input on the command line in Jupyter notebook `03 - Input and Output`.
+
 ### Step 2
 
 Modify your game so that it tells the user how many tries it took them to guess the right number.
