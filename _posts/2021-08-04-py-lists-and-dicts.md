@@ -33,5 +33,6 @@ At _minimum_ you should be able to count words and print that count, even if the
 
 ## 🦉 Code & Notes
 
+- [What does `if __name__ == "__main__"` do?](https://github.com/momentumlearn/student-resources/blob/main/articles/pymain.md)
 - [Notes](https://github.com/Momentum-Team-8/notes/blob/main/python-lists-dicts-tuples.md)
 - [Intro to Python notebooks](https://github.com/Momentum-Team-8/python-notebooks) (**Notebooks 8-11**)
