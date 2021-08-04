@@ -17,7 +17,9 @@ phrases = ["everything is fine", "have a seat", "holy cow"]
 
 ### exercise 2
 
-Rewrite your `remove_from_list function` from yesterday to use a list comprehension to remove the item.
+Rewrite your `remove_from_list function` to use a list comprehension to remove the item.
+
+The `remove_from_list` function should take a list of items and an item to remove from that list, and return a new list that contains everything from the original list except for that item. It should remove every occurrence of the item in the list (if it appears more than once).
 
 ### exercise 3
 
