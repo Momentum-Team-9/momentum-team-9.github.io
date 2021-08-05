@@ -64,3 +64,8 @@ Don't forget about the Python problem sets I mentioned in class. These are the s
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [RealPython: Modules and Packages](https://realpython.com/python-modules-packages/): _We'll get more into packages next week, so just read through the section on modules for now._
 - [RealPython: How to Run Your Python Scripts](https://realpython.com/run-python-scripts/): _Much of the beginning of this article is review of things we've talked through in class, but it is a good synthesis of what we've covered._
+
+
+## 🦉 Code
+
+- [example code from class](https://github.com/Momentum-Team-9/examples/tree/main/py-word-frequency)
