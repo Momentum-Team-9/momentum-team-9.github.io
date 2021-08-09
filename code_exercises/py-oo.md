@@ -7,7 +7,7 @@ layout: default
 
 ### Step 0
 
-Create a new python file and name it whatever you want. This is where you will write the code that follows.
+Create a new Python file and name it whatever you want. This is where you will write the code that follows.
 
 ### Step 1
 
@@ -23,7 +23,6 @@ Create two different user instances using your class and save them to variables 
 ```
 Anton lives in Durham, NC.
 Cecil lives in San Francisco, CA.
-
 ```
 
 ### Step 2
