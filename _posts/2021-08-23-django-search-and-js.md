@@ -58,4 +58,4 @@ Keep on with your end-of-phase project. Today you should have models that you ca
 ## 🦉 Code
 
 - [Django Music Example App: Search](https://github.com/Momentum-Team-9/example-django-music/tree/search)
--
+- [Django Music Example App: Adding JS](https://github.com/Momentum-Team-9/example-django-music/tree/adding-js-to-django)
