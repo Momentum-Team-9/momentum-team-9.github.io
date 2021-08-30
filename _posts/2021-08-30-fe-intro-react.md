@@ -26,7 +26,11 @@ Make sure you have the following set up in your local environment:
 
 ## 🎯 Do
 
-[Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/). This will show you the most modern way to build React apps. This project will be in Git, but you will use a repository you make.
+**Assignment for Monday Night**<br>
+[Intro to ReactJS](https://reactjs.org/tutorial/tutorial.html) This will show you how to write react code the old-school way, with classes! It's important to familiarize yourself with this style as some codebases you encounter during your career could be written in class-based React. **This project will be in Git, but you will use a repository you make.**
+
+**Assignment for Tuesday Night**<br>
+[Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/). This will show you the most modern way to build React apps. **This project will be in Git, but you will use a repository you make.**
 
 If you finish this and want to keep going, try one of these other tutorials:
 
