@@ -5,10 +5,10 @@ tags: phase-3 phase-3-be deployment
 category: back-end
 ---
 
-## Topics
+## 🐍 Today's Topics
 
-- deploying Django applications to [Heroku](https://www.heroku.com/)
-- using [PostgreSQL](https://www.postgresql.org/)
+- Deploying Django applications to [Heroku](https://www.heroku.com/)
+- Using [PostgreSQL](https://www.postgresql.org/)
 
 ## 🎯 Project: Habit Tracker
 
@@ -16,23 +16,39 @@ You'll be working on [Habit Tracker](https://classroom.github.com/a/CvwM9lxW) th
 
 It's important to read the project requirements **thoroughly** and start to think about how you would do this project.
 
-First steps: generate the project skeleton, get it deployed to Heroku, and design your models. Make sure to create a diagram showing model fields and relationships. _Talk through with each other_ how you are thinking about this.
+First steps: generate the project skeleton; make sure you are using Postgres; deploy to Heroku; and design your models. Make sure to create a diagram showing model fields and relationships. _Talk through with each other_ how you are thinking about this.
 
-By Thursday:
+By tomorrow:
 
-- Your application should be deployed to Heroku
-- Your models should be done
-- You should be able to create habits and associated daily records in the django shell (I recommend using `shell_plus`)
+- Your application should be deployed to Heroku.
+- Your models should be functional -- that is, enough to create objects you can work with, even if you might add, remove, or change fields later.
+- You should be able to create habits and associated daily records in the admin or django shell (I recommend using `shell_plus`).
+
+## 📖 Read | 📺 Watch | 🎧 Listen
+
+_These are this week's required readings, videos, and/or podcasts. Read, watch, or listen, **take notes**, and come prepared to discuss what you learned._
+
+### Deployment
+
+- 📖 [Full Stack Python: Deployment](https://www.fullstackpython.com/deployment.html)
+- 📖 [Heroku Reference: Deploying Django Apps to Heroku](https://devcenter.heroku.com/articles/deploying-python)
+  - [Walkthrough: Getting Started with Python/Django Apps on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
+- 🎧 [Deploying and Running Django Web Apps in 2021](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
+
+### Databases & Data Modeling
+
+- 📖 [Full Stack Python: Databases](https://www.fullstackpython.com/databases.html)
+- 📖 [Full Stack Python: ORMs](https://www.fullstackpython.com/object-relational-mappers-orms.html)
+- 📖 [Class-Responsibility-Collaborator Model (CRC)](http://agilemodeling.com/artifacts/crcModel.htm)
+- 📺 [Entity Relationship Diagrams (ERD), from Lucid Chart](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+
+### Debugging
+
+- 📖 [Python Debugging with Pdb](https://realpython.com/python-debugging-pdb/)
+- 📺 [Damilare Onajole, Debugging Python](https://pyvideo.org/pycon-nigeria-2018/debugging-python-applications-for-profit.html)
+
 
 ## 🔖 Resources
 
-- [Example code: Django Recipes](https://github.com/momentum-team-7/example-django-recipes)
 - [Checklist for deploying to Heroku](https://github.com/momentumlearn/student-resources/blob/main/articles/deploy-django-to-heroku.md)
-- [`django-extensions` `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)
-- [Momentum Django Project Template](https://github.com/momentumlearn/django-project-template)
-
-### 📖 Read | 📺 Watch | 🎧 Listen
-
-- [Full Stack Python: ORMs](https://www.fullstackpython.com/object-relational-mappers-orms.html)
-- [Class-Responsibility-Collaborator Model (CRC)](http://agilemodeling.com/artifacts/crcModel.htm)
-- [Entity Relationship Diagrams (ERD), from Lucid Chart](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+- [How to use django-extensions `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)
