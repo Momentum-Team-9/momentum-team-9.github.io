@@ -48,3 +48,4 @@ You can think of queries as talking to the database. To support all our CRUD act
 
 - [Django Recipes App](https://github.com/Momentum-Team-9/ex--django-recipes)
 - [Django Queries Cheat Sheet](https://github.com/Momentum-Team-9/notes/blob/main/django-queries.md)
+- [Deploying a Django App to Heroku (updated)](https://www.notion.so/momentumlearn/Deploying-a-Django-App-to-Heroku-81488333c03445539bfc7eb3c1691ed0)
