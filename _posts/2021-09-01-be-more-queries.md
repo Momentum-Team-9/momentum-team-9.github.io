@@ -34,6 +34,11 @@ This section is material to prep for the topic we will begin next week: building
 - [Complex lookups with Q](https://docs.djangoproject.com/en/3.2/topics/db/queries/#complex-lookups-with-q-objects)
 - [F objects](https://docs.djangoproject.com/en/3.2/ref/models/expressions/#django.db.models.F)
 
+## Constraints
+
+- [Django Docs: model constraints](https://docs.djangoproject.com/en/3.2/ref/models/options/#constraints) -> this gives you the general format/syntax
+- [Django Docs: UniqueConstraint](https://docs.djangoproject.com/en/3.2/ref/models/constraints/#uniqueconstraint)
+
 ### Aggregate & Annotate
 
 - [PrettyPrinted Video: Basics of Django Aggregations](https://youtu.be/2MFAV-arSuI)
