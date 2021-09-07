@@ -35,3 +35,7 @@ tags: phase-3 phase-3-fe react
 
 - [4 Techniques for Conditional Rendering in React](https://linguinecode.com/post/4-techniques-conditional-render-react-props-state)
 - [Handling Events in React](https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/)
+
+## 🦉 Code
+
+- [React devs-for-hire now with GitHub data!](https://github.com/Momentum-Team-9/example-react-app)
