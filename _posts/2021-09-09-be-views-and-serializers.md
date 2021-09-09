@@ -26,4 +26,4 @@ By today or tomorrow you should be able to make a request for all habits, for on
 
 ## 🦉 Code
 
-- [Example Library API](https://github.com/Momentum-Team-8/example-drf-library)
+- [Example Recipes API](https://github.com/Momentum-Team-9/ex--django-recipes)
