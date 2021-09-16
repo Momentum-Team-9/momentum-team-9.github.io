@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ⚛ URL Routing in React ⚛
+title: ⚛ Local Storage in React ⚛
 tags: phase-3 phase-3-fe react router
 ---
 
@@ -16,11 +16,10 @@ This afternoon we'll spend some time bashing some bugs and talking about next st
 
 By **Friday or Saturday** your app should have the following features:
 - Register for a new account or Login to an existing account
-- Create, Edit and Delete questions (if the user is authenticated)
+- Create and Delete questions (if the user is authenticated)
 - Show a list of questions (for authenticated and unauthenticated users)
 - Show user information (questions asked, username, etc.) on a profile or dashboard
 - Implement routing with React Router
-
 
 By **Monday** your app should have the following features:
 - Auth token is saved in local storage
