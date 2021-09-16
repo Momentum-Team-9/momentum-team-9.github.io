@@ -15,3 +15,8 @@ Keep on going. 💪 🚀
 Today's class is devoted to getting you past any blockers you may be experiencing and to talk through next steps.
 
 By now you should have provided your front end with a way to log in and log out, and endpoints to see questions and answers. By tomorrow you should have the ability to POST questions and ideally also answers to questions.
+
+## 🔖 Resources
+
+- [Base Endpoint Guide for Djoser](https://djoser.readthedocs.io/en/latest/base_endpoints.html) -> includes create a new user and other nice stuff
+- [Token Authentication Endpoint Guide for Djoser](https://djoser.readthedocs.io/en/latest/token_endpoints.html) -> details on the token auth endpoints
