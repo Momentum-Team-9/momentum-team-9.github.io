@@ -20,3 +20,7 @@ By now you should have provided your front end with a way to log in and log out,
 
 - [Base Endpoint Guide for Djoser](https://djoser.readthedocs.io/en/latest/base_endpoints.html) -> includes create a new user and other nice stuff
 - [Token Authentication Endpoint Guide for Djoser](https://djoser.readthedocs.io/en/latest/token_endpoints.html) -> details on the token auth endpoints
+
+### Creating a properly hashed password
+
+- [Django Docs: Manually managing a user's password](https://docs.djangoproject.com/en/3.2/topics/auth/passwords/#module-django.contrib.auth.hashers)
