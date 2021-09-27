@@ -13,10 +13,9 @@ layout: default
 
 ## Zoom
 
-## Phase 2 Classroom Links
+## Phase 4 Classroom Links
 
-- [Amy's classroom (morning class)](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09)
-- [Jeanette's classroom (afternoon class)](https://us02web.zoom.us/s/85432264511?pwd=NWJ4K3hWU0pkMWlKMHhZQUpwRTJNUT09)
+- [Amy's classroom](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09) _For class meetings, standup, and check-ins throughout the phase_
 - [Zoom co-working room, open to all current students](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -> This is our virtual shared space, open to all currently enrolled students and job-seeking alums.
   - Meeting ID: 705 824 048
   - Passcode: 573244
