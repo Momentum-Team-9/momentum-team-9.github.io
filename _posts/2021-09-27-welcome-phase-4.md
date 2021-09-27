@@ -26,6 +26,10 @@ The experience of working on a team during this phase and the product you build 
 
 ## 🔖 Resources
 
+### Productivity Timer ⏲️
+
+- [Cuckoo](https://cuckoo.team/)
+
 #### Idea Generation 💡
 
 - [awesome-react](https://github.com/enaqx/awesome-react)
