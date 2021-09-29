@@ -6,17 +6,16 @@ layout: default
 
 # Demo Presentation Guide
 
-Your team has 10-12 minutes of presentation time, followed by 10-15 minutes of Q&A time with panelists. Each developer on the team should have about 2 minutes to talk.
+Your team has 12-15 minutes of presentation time, followed by 10-15 minutes of Q&A time with panelists. Each developer on the team will introduce themselves before the presentation begins, and then should have about 2 minutes during the actual presentation.
 
-_Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions.
+_Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions (see the section below on prepping for Q&A).
 
 ## Examples of Presentations
 
-- [Team Four Presentation Day (December 2020)](https://us02web.zoom.us/rec/share/VILagXTy3f0pHc518qi-4WdBioMEetPSsEc07rMX_5X4nZHBKsMlAb7ndpyeAa0V.RUjIuFp-vx6r8dMH?startTime=1607100885000) (Passcode: +y4TL0er)
-- [Team Three Presentation Day (October 2020)](https://us02web.zoom.us/rec/share/Y37mtvHV_dVj8KwCijATJOm8H-QlK1ElxByuYOBDiADCLhg7N8kxEEFqpXQBv1J5.XIHJt13xNRjmmSKy)
-  (Passcode: J#3szW=c)
-- [Team Two Presentation Day (September 2020)](https://us02web.zoom.us/rec/share/HRN1qN11i5OuY6cS9S8O4mGfn0-cwZbaPPCRO9861W-77wH-YBeQKvO7aDZkZtBs.N09hjeocw3OvewZj) (Passcode: V^9egNx4)
-- [Team One Presentation Day (August 2020)](https://us02web.zoom.us/rec/play/65MsI7-o_z03EtKWsgSDBPF5W9Xvequs0SEd_6VemUe0ASVRN1f1ZuYXZ-H2_-T8ccQp0VjD-0btYf9g?startTime=1596808567000) (Passcode: J3pFtd!3)
+- [Team Eight Presentation Day](https://us02web.zoom.us/rec/play/nvDal265sVKKtbF8vKQO5upyd3id-Cxk6EQNdQ6gvjz3h4z1Xyz8Nk-Nkry2HzLeCTvX5ZxPgidrgYGz.woK4kQnjYWvWnq-7?startTime=1630080088000) (this link should not require a passcode)
+- [Team Seven Presentation Day](https://us02web.zoom.us/rec/share/DBOPdL-PCm-3b2jX1-GiLaGaP5KWC4AP1ZgWgFZ-4OvGcFm2CpQM6wqlPdb9i5dI.WMmKe5DhtGm-IJi9?startTime=1620403037000) Passcode: *2AO%WaU
+- [Team Two Presentation Day (September 2020)](https://us02web.zoom.us/rec/share/HRN1qN11i5OuY6cS9S8O4mGfn0-cwZbaPPCRO9861W-77wH-YBeQKvO7aDZkZtBs.N09hjeocw3OvewZj) Passcode: V^9egNx4
+
 
 ## Tell the story of your app and your team
 
@@ -35,7 +34,7 @@ Record a screencast that demos your app's features. You and your team will talk 
 
 Write a short (1-2 sentences) description of your app. This will be used along with a video of your presentation on your website when we post it, and may be used when Momentum staff communicate verbally or in writing with employers or others outside our organization about what your team built.
 
-Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, March 11 at 2:00 pm**.
+Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, October 21 at 2:00 pm**.
 
 - [Google Drive folder](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing)
 
