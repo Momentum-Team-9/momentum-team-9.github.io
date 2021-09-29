@@ -12,7 +12,7 @@ _Each person on your team should be prepared to answer questions_. Decide ahead 
 
 ## Examples of Presentations
 
-- [Team Eight Presentation Day](https://us02web.zoom.us/rec/play/nvDal265sVKKtbF8vKQO5upyd3id-Cxk6EQNdQ6gvjz3h4z1Xyz8Nk-Nkry2HzLeCTvX5ZxPgidrgYGz.woK4kQnjYWvWnq-7?startTime=1630080088000) (this link should not require a passcode)
+- [Team Eight Presentation Day](https://us02web.zoom.us/rec/play/nvDal265sVKKtbF8vKQO5upyd3id-Cxk6EQNdQ6gvjz3h4z1Xyz8Nk-Nkry2HzLeCTvX5ZxPgidrgYGz.woK4kQnjYWvWnq-7?startTime=1630080088000) Passcode: +E#$E@h0
 - [Team Seven Presentation Day](https://us02web.zoom.us/rec/share/DBOPdL-PCm-3b2jX1-GiLaGaP5KWC4AP1ZgWgFZ-4OvGcFm2CpQM6wqlPdb9i5dI.WMmKe5DhtGm-IJi9?startTime=1620403037000) Passcode: *2AO%WaU
 - [Team Two Presentation Day (September 2020)](https://us02web.zoom.us/rec/share/HRN1qN11i5OuY6cS9S8O4mGfn0-cwZbaPPCRO9861W-77wH-YBeQKvO7aDZkZtBs.N09hjeocw3OvewZj) Passcode: V^9egNx4
 
