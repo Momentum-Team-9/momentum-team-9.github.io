@@ -14,7 +14,7 @@ layout: default
   - morning with staff @9:30-9-45 am
   - late-day, team only; set your own schedule
 - **Regular check-ins every Monday & Thursday**
-  - @12:45 am - 1:45 pm
+  - @12:45 - 1:45 pm
   - starting Monday October 4 (last scheduled check-in is on Tuesday October 19)
 
 ## Final Week

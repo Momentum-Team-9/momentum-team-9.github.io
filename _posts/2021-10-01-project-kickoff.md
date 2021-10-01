@@ -54,7 +54,7 @@ The following checklists will help you know when you are ready to start writing 
 
 ## Reminders
 
-- Standup starts Monday 8/09 @9:30 am or @9:45 am (check your email for a cal invite)
-- First check-in Monday 8/09 @your assigned time (check your email for a cal invite)
+- Standup starts Monday 10/04 @9:30 am (check your email for a cal invite)
+- First check-in Monday 10/04 @12:45 pm (check your email for a cal invite)
 
-Standup and check-ins will use [this Zoom classroom](https://us02web.zoom.us/j/85432264511?pwd=NWJ4K3hWU0pkMWlKMHhZQUpwRTJNUT09).
+Standup and check-ins will use [your regular Zoom classroom](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09).
