@@ -48,7 +48,7 @@ layout: default
 - **Second rehearsal with staff** @1:00-2:00pm
   - All teams together
 - **Final screencast video due** to Dawn @3:00 pm ([Google Drive link](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing))
-- **Tech check & run-through** @3:15-4:00 pm (A Zoom link will be provided via email)
+- **Tech check & run-through** @4:30-5:15 pm (A Zoom link will be provided via email)
   - All teams together
 
 ### Friday October 22
